@@ -1,6 +1,6 @@
-# Your `~/.(bashrc|profile)` doesn't have to be a mess
+# Your `~/.(bashrc|zprofile|profile)` doesn't have to be a mess
 
-Clone this repo to `~/.config/bashrc`and add this snippet to your `~/.(bashrc|profile)` file:
+Clone this repo to `~/.config/bashrc`and add this snippet to your `~/.(bashrc|zprofile|profile)` file:
 
 ```bash
 #!/usr/bin/env bash
