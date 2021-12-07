@@ -1,3 +1,8 @@
 alias on="source .venv/bin/activate"
 alias off="deactivate"
 alias mkenv="python -m venv .venv && on && pip install -U pip wheel"
+alias mkenv10="python3.10 -m venv .venv && on && pip install -U pip wheel"
+alias mkenv9="python3.9 -m venv .venv && on && pip install -U pip wheel"
+alias mkenv8="python3.8 -m venv .venv && on && pip install -U pip wheel"
+alias mkenv7="python3.7 -m venv .venv && on && pip install -U pip wheel"
+alias mkenv6="python3.6 -m venv .venv && on && pip install -U pip wheel"
