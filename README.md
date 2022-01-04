@@ -3,7 +3,6 @@
 Clone this repo to `~/.config/bashrc`and add this snippet to your `~/.(bashrc|zprofile|profile)` file:
 
 ```bash
-#!/usr/bin/env bash
 for file in ~/.config/bashrc/*.sh; do
   [[ -r $file ]] && . $file
 done
