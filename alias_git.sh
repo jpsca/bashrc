@@ -1,3 +1,4 @@
 alias gis="git status"
-alias gitp="git pull"
-alias gita="git add --all ."
+alias gip="git pull"
+alias gia="git add --all ."
+alias giw="git switch"
