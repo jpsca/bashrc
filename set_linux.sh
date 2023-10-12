@@ -1,0 +1,2 @@
+export AWS_VAULT_BACKEND=file
+export GTK_USE_PORTAL=1
